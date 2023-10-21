@@ -24,6 +24,7 @@ const Home = ({ blog }) => {
       {/* ページ全体のタイトル */}
       <Head>
         <title>世間的には40歳だけど独学でエンジニアとしてやっていく</title>
+        <meta name="google-site-verification" content="BWqXHVNZW3U9CWGRQ-7xu1qKwLoub_wKvfxHMIJJ5xM" />
       </Head>
 
       {/* ブログ自体のタイトルヘッダー */}
