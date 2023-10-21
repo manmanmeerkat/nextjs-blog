@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://chocolat5.com/
+Host: https://manmanmeer-blog.vercel.app/
 
 # Sitemaps
-Sitemap: https://chocolat5.com/sitemap.xml
+Sitemap: https://manmanmeer-blog.vercel.app/sitemap.xml
