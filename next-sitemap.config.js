@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: 'https://chocolat5.com/',
+    siteUrl: 'https://manmanmeer-blog.vercel.app/',
     generateRobotsTxt: true,
     sitemapSize: 7000,
   };
