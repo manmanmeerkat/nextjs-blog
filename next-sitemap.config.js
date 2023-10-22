@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: 'https://manmanmeer-blog.vercel.app/',
+    siteUrl: 'https://manmanmeerblog.vercel.app/',
     generateRobotsTxt: true,
     sitemapSize: 7000,
   };
